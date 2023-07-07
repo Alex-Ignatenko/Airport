@@ -1,0 +1,19 @@
+.up {
+  transform: rotate(0deg);
+  font-size:40px
+}
+.left {
+  transform: rotate(-90deg);
+}
+.down {
+  transform: rotate(180deg);
+  font-size:40px
+}
+
+.arriving {
+color: green;
+}
+
+.departing {
+  color: brown;
+}
